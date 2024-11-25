@@ -15,3 +15,9 @@ Date Formatter is a web app that displays the current date in various formats. U
 - **HTML**: Structure of the application.
 - **CSS**: Styling and layout.
 - **JavaScript**: Dynamic date formatting and interaction
+
+## Usage
+Open the application in a browser.
+View the current date displayed in the default format.
+Select a different format from the dropdown menu.
+The displayed date updates automatically
