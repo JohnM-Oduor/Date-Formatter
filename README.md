@@ -3,15 +3,15 @@ Date Formatter is a web app that displays the current date in various formats. U
 ![image](https://github.com/user-attachments/assets/b4809666-9d40-4f68-a19a-f5bd82571786)
 
 
-Displays the current date in a default format.
-Allows users to select and display dates in different formats:
-Day-Month-Year
-Year-Month-Day
-Month-Day-Year, Hours:Minutes
-Responsive design for various screen sizes.
+## Features
+- Displays the current date in a default format.
+- Allows users to select from multiple date formats:
+  - Day-Month-Year
+  - Year-Month-Day
+  - Month-Day-Year, Hours:Minutes
+- Responsive design for different screen sizes.
 
-Technologies Used
-
-HTML: For structuring the application.
-CSS: For styling and responsiveness.
-JavaScript: For date manipulation and DOM interaction.
+## Technologies Used
+- **HTML**: Structure of the application.
+- **CSS**: Styling and layout.
+- **JavaScript**: Dynamic date formatting and interaction
